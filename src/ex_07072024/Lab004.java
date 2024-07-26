@@ -2,13 +2,12 @@ package ex_07072024;
 
 public class Lab004 {
     public static void main(String[] args) {
-        /*
-        1. package
-        2. Class
-        3. Main method
-        4. Statements
-
-         */
+        /**
+         *  1. package
+         *  2. Class
+         *  3. Main method
+         *  4. Statements
+         **/
         System.out.println(2+3);
         System.out.println(2-3);
         System.out.println(2*3);

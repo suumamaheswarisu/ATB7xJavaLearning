@@ -12,6 +12,13 @@ public class Lab007 {
          * enter comment for committing
          * click on Commit.
          * If any error is thrown, click on Commit anyway and Push.
-         */
+         *
+         *
+         *
+         * Code to push the code from command prompt
+         * git add ./
+         * git commit -m "add a comment"
+         * git push
+         **/
     }
 }
