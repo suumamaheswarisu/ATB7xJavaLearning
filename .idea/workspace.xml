@@ -4,31 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54601387-1f2f-44d4-84d3-72a00db22305" name="Changes" comment="Lab exercises related to print, formatting...">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab033.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab039.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab042.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab044.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab045.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab048.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab049.java" afterDir="false" />
+    <list default="true" id="54601387-1f2f-44d4-84d3-72a00db22305" name="Changes" comment="Completed till relational operators_13Jul2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab057.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab058.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab060.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab027.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab027.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +91,15 @@
     "Application.Lab047.executor": "Run",
     "Application.Lab048.executor": "Run",
     "Application.Lab049.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.Lab056.executor": "Run",
+    "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab060.executor": "Run",
     "Application.ex_07062024.Lab001.executor": "Run",
     "Application.ex_07062024.Lab002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -111,13 +108,13 @@
     "onboarding.tips.debug.path": "C:/Users/UmaMaheswariSU/IdeaProjects/LearningATB7xJavaProgram/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab049">
-    <configuration name="Lab045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab045" />
+  <component name="RunManager" selected="Application.Lab060">
+    <configuration name="Lab056" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab056" />
       <module name="LearningATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab046" />
+    <configuration name="Lab057" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab057" />
       <module name="LearningATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab047" />
+    <configuration name="Lab058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab058" />
       <module name="LearningATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab048" />
+    <configuration name="Lab059" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab059" />
       <module name="LearningATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab049" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab049" />
+    <configuration name="Lab060" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab060" />
       <module name="LearningATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab049" />
-        <item itemvalue="Application.Lab048" />
-        <item itemvalue="Application.Lab047" />
-        <item itemvalue="Application.Lab046" />
-        <item itemvalue="Application.Lab045" />
+        <item itemvalue="Application.Lab060" />
+        <item itemvalue="Application.Lab059" />
+        <item itemvalue="Application.Lab058" />
+        <item itemvalue="Application.Lab057" />
+        <item itemvalue="Application.Lab056" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723259645224</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Completed till relational operators_13Jul2024">
+      <option name="closed" value="true" />
+      <created>1723430082782</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723430082782</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +275,7 @@
     <MESSAGE value="GIT added successfully" />
     <MESSAGE value="Package renamed" />
     <MESSAGE value="Lab exercises related to print, formatting..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab exercises related to print, formatting..." />
+    <MESSAGE value="Completed till relational operators_13Jul2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed till relational operators_13Jul2024" />
   </component>
 </project>
