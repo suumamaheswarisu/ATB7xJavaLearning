@@ -9,12 +9,13 @@ public class Lab060 {
         int pre_a = 10;
         System.out.println(++pre_a);        //value is incremented first and then stored in the expression
         System.out.println(pre_a);
+        //Pre increment: expression - 11; value of a - 11
 
         // post increment - operand++ Eg: a++
         // Post-increment:  Value is stored in the result first and then incremented
         int post_a = 10;
         System.out.println(post_a++);       //value is printed first and then incremented
         System.out.println(post_a);
-        
+        //Post-increment: expression - 10; value of a - 11
     }
 }
